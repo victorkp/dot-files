@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com'
+let g:netrw_dirhist_2='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com/victor'
+let g:netrw_dirhist_3='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com/victor/kaiser'
+let g:netrw_dirhist_4='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com/victor/kaiser/pendergrast'
+let g:netrw_dirhist_5='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com/victor/kaiser/pendergrast/settings'
+let g:netrw_dirhist_6='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com/victor/kaiser/pendergrast/settings/types'
+let g:netrw_dirhist_7='/home/vkaiser-pendergrast/Dropbox/GitHub/GlassSettings/Library/src/com/victor/kaiser/pendergrast/settings/types/activity'
+let g:netrw_dirhist_8='/mnt/eb4635eb-f7cc-498c-85f7-a8fab1755eb6/Research/git/elastic-pathing'
